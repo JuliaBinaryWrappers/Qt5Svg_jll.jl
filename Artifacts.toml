@@ -1,154 +1,162 @@
 [[Qt5Svg]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f517f15611853eafe2f79f43b6d51a6b7179724e"
+git-tree-sha1 = "d84dbb3934f142c1f4e3822326ab8fa893000b88"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "ac32f53e98216145377cd72d8c5fd480ec5fc046bdbbd27b01de6aa2c01c6193"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "43710ac2f336f16ab472d454ee3ceb9143b87ede294532b6c6b73650ccb6159d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.aarch64-linux-gnu-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d92e39a1fcd914bdd969e1f1a8699de53d29f5c0"
+git-tree-sha1 = "4fa567d7ff02536933e8ee3df3042c43ec3130d6"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "2bdfcf07a79b5be9e8f95119ad9ff2a0c11f6ade0154460fd18a39faa7e3a44a"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4597b1917a06e1cdf8f25718a26a26abf8a1758332709b7c059c89931133a1dc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[Qt5Svg]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d095adc34b915d20abcfacbf281f17b369a5dbdc"
+git-tree-sha1 = "8f7e4c3caba41b883779e3d9d15c96c176a67252"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "4eb29262f7007816abeae72a5fbfd9eca6dc1cc30b384a75cd5c6d11eb679ce5"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6cccbc2dcca751118957af9bd5d2e92302571dc299666273a2bd0d76482be9fb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62a0e59eaa06c2883cab1934beb7bd39f32e955a"
+git-tree-sha1 = "8f1cb608a4e4b1a1ff5b7797813d7a07dd64d757"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "7406176e741e95db1b6cca9c6832ae3835dc7b5a5c090335357623087f7f4173"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "54851e55da6bf1fbde539d4bdbd8b34f15867d0020f25496d2c578c70479a783"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Qt5Svg]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0a7883f99e0366f4c931fb6d0761c96665644ee2"
+git-tree-sha1 = "ff5863a81bf145263a421cb5bf5ae9e162c9d357"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "7313ef2a002bdd052721dfc53bcbc81368b175d2b412563f39580df5db07699b"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "c1bc440ec9f62da4cf464853123f85900cac16a78770cb9342fa842a37cffd7d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.i686-linux-gnu-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "66e5226192f54e364a2217e63034419c572ea005"
+git-tree-sha1 = "3921aaab895bc760c72bdf9154d5adb01280ede6"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "7e5c8183d1d6bb92636d1f155a0ecd9cb10a0f21b1c1dee22f98b642ccd44b69"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "29a0fdebf17ad608048f610a24a8b713f5f0e833557b52e43425ed4100570bc0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.i686-linux-gnu-cxx11.tar.gz"
 [[Qt5Svg]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4c3c8e2ed67068819e824c98223f3011baed4ed5"
+git-tree-sha1 = "91904ee3546a7cb6f7a3c68efa098b5d1106a8f7"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "eeed65067187dc83ab1c0addf1fdfb5923e9f30861472bdd7bb34013c2eebd22"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "ef8b60e2a177fcdcec06755cea1ad585a1469026dd023e4b260e6fcfaf76e37b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "311e48598d913bab40225dc383806e805f62e544"
+git-tree-sha1 = "81bf63aad064625f29e940c651fda914a7d862cf"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "97443947dc64d2407ef7b21a3b9e35ce357c75b462011faf1c0f4c6a526b2a29"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "76da33073b40c0fc99a0dd71a1cf712316ee2eccb6a52e12f86fd66d27649560"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Qt5Svg]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb320c8181f064654231d8a8d2f77c6f2c09ecd3"
+git-tree-sha1 = "379caf7501c5c9e2070d1b677d5d0304b2a854b4"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "7253c4da08da8176266bcb4c33c2824077a9a5282c49bc7f0d4c4f7fbaa96b9e"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "82d3cc7402e46e27babf4d9dfd0d147ce91291be5b7e11c0ad2661986e5ba975"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.x86_64-linux-gnu-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "110f65ec3fd749867244941108b9fbc66555f839"
+git-tree-sha1 = "27448f656af2e8fab3d7b066056c47c0cfdfac1b"
 libc = "glibc"
 os = "linux"
 
     [[Qt5Svg.download]]
-    sha256 = "650b103cf54cc1ddd95669d5716e78c10a8b66fca62152d31068549de79da17e"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1530cc4b57ec48e984dc31acb1b306c726a2a9223861eda893088c73ee054be9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[Qt5Svg]]
 arch = "x86_64"
-git-tree-sha1 = "e0e2064a17954c5ce2705cf856d3b7d928050a9f"
+git-tree-sha1 = "6124d9ef5b7021bd15c25c243b00aa09c6294ab7"
 os = "freebsd"
 
     [[Qt5Svg.download]]
-    sha256 = "c82f1b866c30e46139d7f6f3dc629a5bbba16f9f54acf1edb280ad41cf982b0a"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4fc2898fcc3713114f8e740ab483694136f7a78e11e8496b342ca3c3f6828502"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.x86_64-unknown-freebsd.tar.gz"
 [[Qt5Svg]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2e087c88182a1e231880794e8acc6a532c3531c8"
+git-tree-sha1 = "108ca41e8135f963469d86ab80f46af4d64dea2d"
 os = "windows"
 
     [[Qt5Svg.download]]
-    sha256 = "75f0f26f72ea5d3c4cfddf85aa7b810cda00b102e2a324162d7c60f7e18dc2a1"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "2ac960e1c3e1e44ef532f11529f02c5c5cdd3bf1048b6e6b5b94936715c282f8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.i686-w64-mingw32-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "83ca3deb35dd60ea257585eb0eb16360838b4a5f"
+git-tree-sha1 = "e80ea92ff2caf3a272fa8b92a05e17d2986ccc53"
 os = "windows"
 
     [[Qt5Svg.download]]
-    sha256 = "28e9fecb3227a26313b03213ca8603b38bd26dfa84c0482360a6eb74a0c57a9c"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "da5e8a645dcaf3046f475665c495a9e312f8bd33252f3c72c69f95ec52f88f90"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.i686-w64-mingw32-cxx11.tar.gz"
 [[Qt5Svg]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bfdd52734b5ab6a2ae4a7a5126ce27d86d7c1f1d"
+git-tree-sha1 = "82f022f8ccd13cc651ca70f97f793ec571c326f6"
 os = "windows"
 
     [[Qt5Svg.download]]
-    sha256 = "07496b27ef6feb9c2662bc942e088fdfad2a7251a7cedd8588b58533afbdd637"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "fad4e6f93b020889b98f4cde8964e71c9671dd25ab595ee64ea0d4a2665eaba3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Qt5Svg]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2978df4df6e35ab203836f5b0ea412d76f1114b1"
+git-tree-sha1 = "4c30542eefae67acb7d51b8938627d01905b98ce"
 os = "windows"
 
     [[Qt5Svg.download]]
-    sha256 = "c6848106a94521b1a7a275641c6c598913f5579642f0ed45723084cef841f086"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8d6c82e666df24b4751da86c5bdec27b37f4c26fbd9c6bf78e147cfbc7d38d20"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Qt5Svg]]
-arch = "x86_64"
-git-tree-sha1 = "5af8949822ab62e169e2b1131aaa93a8598fa94f"
+arch = "aarch64"
+git-tree-sha1 = "1da9b9a30ee991a2571183e31dfa91bd974f5491"
 os = "macos"
 
     [[Qt5Svg.download]]
-    sha256 = "f66b97a560565dd2a9f83f03c31ae500791fe0e30bb48b539c22f0fb4a370793"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "5ecfede68e7e292355cc97baf8d6f22b68321e1e619869ea03e4a783377957e4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.aarch64-apple-darwin.tar.gz"
+[[Qt5Svg]]
+arch = "x86_64"
+git-tree-sha1 = "775ea7c2f3793d70ee74a44ddbb2a0c63833655b"
+os = "macos"
+
+    [[Qt5Svg.download]]
+    sha256 = "83a82a68027b613907f0018d8da1445d0261a4268e87272f07364a7a90e8358f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.3+0/Qt5Svg.v5.15.3.x86_64-apple-darwin.tar.gz"
